@@ -213,6 +213,10 @@ body {
 	position: relative;
 	margin-top:50px !important;
 }
+
+.card-text-color {
+	color: #624835;
+}
  .carousel-inner > .carousel-item > img { width:100%;  max-height: 668px !important; } 
 
 /*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHNDQUFzQyxFQUN6QyIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICAgIGZvbnQtZmFtaWx5OiAnYXZhbnRfZ2FyZGVkZW1pcmVndWxhcic7XG59XG4iXX0= */
