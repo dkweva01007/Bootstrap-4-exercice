@@ -3,6 +3,11 @@
    .section-text {
 		font-size : 6.8px;
    }
+   
+   .card-text {
+		font-size : 10px;
+   }
+
    .section1-text {
 		left: -48.033px;
    }
@@ -10,22 +15,49 @@
    .section2-text {
 		left: 51px !important;
    }
+   
+   .w-responsive {
+		width: 45% !important;
+   }
 }
 
 body {
   font-family: 'avant_gardedemiregular';
+  background-color: #F9F9F9;
 }
 .body {
 	padding-top: 95px;
 }
 
-.navbar-toggler-icon {
-	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+.navbar-color {
+  background-color: #F9F9F9;
+}
+
+.my-toggler {
+	display: block !important;
 }
 
 .green-button {
 	background: #8A962B 0% 0% no-repeat padding-box;
 	color: white;
+}
+
+.carousel-inner .item
+{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    -webkit-background-position: center;
+    -moz-background-position: center;
+    -o-background-position: center;
+    background-position: center;
+
+    -webkit-background-attachment: fixed;
+    -moz-background-attachment: fixed;
+    -o-background-attachment: fixed;
+    background-attachment: fixed;
 }
 
 .slideShow-text {
